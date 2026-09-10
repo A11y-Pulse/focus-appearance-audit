@@ -61,6 +61,6 @@
 		"@a11y-pulse/skip-link-audit": "*",
 		"@a11y-pulse/tab-orchestrator": "*",
 		"@a11y-pulse/text-spacing-audit": "*",
-		"puppeteer": "^25.9.0"
+		"puppeteer": "^25.10.0"
 	}
 }
