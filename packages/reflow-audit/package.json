@@ -59,7 +59,7 @@
 		"@a11y-pulse/browser-adaptor": "*"
 	},
 	"peerDependencies": {
-		"puppeteer": "^25.9.0"
+		"puppeteer": "^25.10.0"
 	},
 	"peerDependenciesMeta": {
 		"puppeteer": {
@@ -68,6 +68,6 @@
 	},
 	"devDependencies": {
 		"happy-dom": "^20.12.0",
-		"puppeteer": "^25.9.0"
+		"puppeteer": "^25.10.0"
 	}
 }
